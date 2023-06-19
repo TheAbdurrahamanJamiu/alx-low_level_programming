@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $CFILEC  -O C
+gcc -E $CFILE -O c
