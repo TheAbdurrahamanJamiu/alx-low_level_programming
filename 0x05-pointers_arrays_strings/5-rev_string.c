@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * rev_stringvvReverse a string
+ * rev_string: Reverse a string
  * @s: The string to be modified
  * Return: void
  */
