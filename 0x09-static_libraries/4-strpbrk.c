@@ -1,4 +1,3 @@
-#!/bin/bash
 #include "main.h"
 
 /**
@@ -16,7 +15,7 @@ char *_strpbrk(char *s, char *accept)
         {
                 for (k = 0; accept[k]; k++)
                 {
-                if (*s == accept[k]
+                if (*s == accept[k])
                 return (s);
                 }
         s++;
